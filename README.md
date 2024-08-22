@@ -22,9 +22,6 @@ Aqui está uma pequena demonstração de como o **Decodificador Estrelado** func
 
 ---
 
-## 🚀 Começando
-
-Siga as etapas abaixo para configurar e executar o **Decodificador Estrelado** localmente.
 
 ### Pré-requisitos
 
